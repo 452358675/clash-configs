@@ -1,6 +1,8 @@
 # 代理规则，所有自定义的代理域名和IP都放这个文件里，注意#表示注释这一行
 # 域名关键字匹配
 DOMAIN,ss-id.com
+DOMAIN,forest-cn.com
+DOMAIN-SUFFIX,yizhihongxing.club
 
 DOMAIN-KEYWORD,googel
 # 域名后缀匹配
@@ -75,4 +77,5 @@ DOMAIN-SUFFIX,ptskit.org
 
 DOMAIN-SUFFIX,halomt.com
 DOMAIN-SUFFIX,manfuz.co
+
 
